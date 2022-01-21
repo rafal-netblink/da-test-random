@@ -1,0 +1,18 @@
+version: "1.0"
+
+detect_relations: true
+
+Items:
+  comment: "Random items"
+  columns:
+    id: integer
+    field_0: integer
+    field_1: string
+    field_2: integer
+    field_3: string
+    field_4: integer
+    field_5: string
+    field_6: integer
+    field_7: string
+    field_8: integer
+    field_9: string
